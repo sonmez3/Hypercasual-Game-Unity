@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - FirstStageFinish
+  - Gate
+  - WhiteHuman
+  - GatePassed
+  - AmmoBall
+  - WhiteHumanChild
+  - Ally
+  - AllyChild
+  - SecondStageFinish
+  - Bullet
+  - AllyChildForNow
+  - ThirdStageFinish
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - AmmoBall
+  - Ammo
+  - Player
+  - WhiteHuman
+  - WhiteHumanChild
+  - Traps
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
